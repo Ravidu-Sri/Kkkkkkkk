@@ -40,7 +40,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || "Golden-Queen-MD-t0R3WJDT#YVWyfQxAgEESdLMsBXBKjb_uBQFhdbHYXszBCF1w1mAftrc", 
 
 //  Mongodp URl එක දාන්න 👇👇👇 (උඩු කොමා දෙක ඇතුලේ )
-  MONGODB: process.env.MONGODB || "mongodb+srv://vefobi7950:D6dwu7gweT3aIsdO@cluster0.vwaqu.mongodb.net/",
+  MONGODB: process.env.MONGODB || "mongodb+srv://Tttttt:99999978666@cluster0.0ya0s.mongodb.net/",
 
 
 MAX_SIZE: 500,
