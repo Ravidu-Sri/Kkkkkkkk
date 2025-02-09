@@ -43,7 +43,7 @@
     "node-schedule":"2.1.1",
     "aptoide-scraper": "latest",
     "hirunews-scrap":"^1.1.3",
-    "mongodb":"6.12.0",
+    "mongodb":"6.13.0",
     "node-cache":"5.1.2",
     "megajs": "^1.1.0",
     "google-tts-api":"^2.0.2",
